@@ -1,0 +1,17 @@
+
+body {
+    background-color: black;
+    font-family: Verdana, sans-serif;
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: normal;
+}
+
+a {
+    font-size: 16px;
+    color: aquamarine;
+}
